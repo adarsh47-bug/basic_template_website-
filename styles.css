@@ -1,0 +1,60 @@
+body {
+    background-color: #efe8e0 !important;
+}
+
+.px-2 {
+    color: black !important;
+}
+
+.col-12 {
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.middiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 2rem;
+    padding-bottom: 0 !important;
+
+}
+
+.middiv div {
+    display: flex;
+    margin: 1vw 0;
+    align-items: center;
+
+}
+
+.mtxt {
+    font-size: 2.5rem;
+    padding: 0 14rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.xbt,
+.ybt {
+    width: 40% !important;
+}
+
+.xmain {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+ul li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+li {
+    font-weight: 600;
+}
+
+.xbt {
+    border: none !important;
+}
